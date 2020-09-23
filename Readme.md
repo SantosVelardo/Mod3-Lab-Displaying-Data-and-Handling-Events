@@ -3,4 +3,6 @@
 
 ### 
 
-Mostrar y no mostrar datos automáticamente mediante la selección de los "Trakcs" de la conferencia, capturando datos a través de JavaScript mediante un JSON.
+1. **Nombres y apellidos:** Santos Velardo Morgado	
+2. **Fecha:** 23/09/2020
+3. **Resumen del Ejercicio:** Mostrar y no mostrar datos automáticamente mediante la selección de los "Tracks" de la conferencia, capturando datos a través de JavaScript mediante un JSON.
